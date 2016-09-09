@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1059984578041",
+    "firebase_url": "https://catchya-421de.firebaseio.com",
+    "project_id": "catchya-421de",
+    "storage_bucket": "catchya-421de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059984578041:android:8f4a7b9f0f5261c3",
+        "android_client_info": {
+          "package_name": "com.eoss.application.catchya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059984578041-3m26rj8iudk1s6hvjmd912k5ap2s8fba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eoss.application.catchya",
+            "certificate_hash": "E171B25445D0CC3372AF6C7C4DD1DC83B3CFA34A"
+          }
+        },
+        {
+          "client_id": "1059984578041-athp3bf9jhn25nt2sikr8pefeljp5r3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Wl-fGAEK7KQRkfZlv7C8yHByMhNQn4U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059984578041-athp3bf9jhn25nt2sikr8pefeljp5r3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

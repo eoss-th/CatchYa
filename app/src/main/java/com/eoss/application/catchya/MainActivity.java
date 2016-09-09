@@ -8,13 +8,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
-
 import com.facebook.login.LoginManager;
-import com.firebase.client.AuthData;
-import com.firebase.client.Firebase;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
-
 
 public class MainActivity extends AppCompatActivity {
     private static final String TAG = "FacebookLogin";
